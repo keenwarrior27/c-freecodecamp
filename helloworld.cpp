@@ -10,4 +10,5 @@ int main()  //This is the main function which runs the c++ code inside it
     cin>>a; // cin statement is used to take input from a user 
     cin>>b;
     cout<<a<<"\n"<<b<<"\n"<<"sum ="<<a+b; // this style is refered to as csascading in c++ where you print multple things in single line using output "<<" operator
+    return 0;
 }
